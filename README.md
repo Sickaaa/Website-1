@@ -37,7 +37,6 @@
              <li>Counter Strike : Global Offensive</li>
              <li>Ironsight</li>
              <li>Totally Accurate Battlegrounds
-             <li>Minecraft</li>
              <li>League Of Legends</li>
              <li>Need For Speed : Most Wanted</li>
           </ul>
